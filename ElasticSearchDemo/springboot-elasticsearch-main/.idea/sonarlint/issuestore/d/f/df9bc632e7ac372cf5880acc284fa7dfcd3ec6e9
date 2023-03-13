@@ -1,0 +1,18 @@
+
+Q
+java:S3740I"/Provide the parametrized type for this generic.(˜ñƒÅüÿÿÿÿ8å¼¤ß0
+Q
+java:S3740J"/Provide the parametrized type for this generic.(”··ßşÿÿÿÿ8å¼¤ß0
+L
+java:S3740L"/Provide the parametrized type for this generic.(¼ıÏİ8æ¼¤ß0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç·¶á8ì¼¤ß0
+>
+java:S1170"!Make this final field static too.(˜8ã½¤ß0
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(‡ˆÉ¨8–¾¤ß0
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(ôÇ®ı8š¾¤ß0
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(ôÇ®ı8°¾¤ß0
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(£Ğõâ8Å¾¤ß0
+G
+java:S1905N"*Remove this unnecessary cast to "Product".(£Ğõâ8Ø¾¤ß0
+„
+java:S1128"bRemove this unused import 'org.springframework.data.elasticsearch.core.ElasticsearchRestTemplate'.(…ÌÊ‚şÿÿÿÿ8Ş¾¤ß0
